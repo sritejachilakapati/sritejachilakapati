@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Sriteja R Chilakapati, you can call me Sriteja
+- 👀 I’m interested in Full stack development, specifically MERN stack.
+- 🌱 I’m currently learning MERN stack on Coursera
+- 📫 How to reach me: Twitter - https://twitter.com/sritejach
